@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/bash
 import requests
 import json
 messages="Tes dari git!"
