@@ -1,4 +1,4 @@
-# Fill in this file with the messages code from the Webex Teams exercise
+#!/usr/bin/python3
 import requests
 import json
 messages="Terima kasih sudah mengikut program kami. Silahkan hubungi admin WA kami untuk dimasukkan ke dalam grup !"
