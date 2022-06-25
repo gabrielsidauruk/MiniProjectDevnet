@@ -1,2 +1,2 @@
 #!/bin/bash
-python -V
+python3 --version
