@@ -1,3 +1,4 @@
 #!/bin/bash
-chmod +x autochatwebex.py
-./autochatwebex.py
+_run(){
+  ./autochatwebex.py
+}
