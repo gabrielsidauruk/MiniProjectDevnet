@@ -1,2 +1,3 @@
-#!/bin/env python3
-python3 autochatwebex.py
+#!/bin/bash
+chmod +x autochatwebex.py
+./autochatwebex.py
