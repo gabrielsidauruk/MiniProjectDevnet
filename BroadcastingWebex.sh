@@ -1,4 +1,2 @@
 #!/bin/bash
-_run(){
-  ./autochatwebex.py
-}
+python3 autochatwebex.py
