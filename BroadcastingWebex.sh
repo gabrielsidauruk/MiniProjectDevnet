@@ -1,2 +1,2 @@
 #!/bin/bash
-which python3
+python -V
