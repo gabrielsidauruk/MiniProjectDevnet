@@ -1,3 +1,2 @@
 #!/bin/bash
-
-ls -l
+python3 autochatwebex.py
