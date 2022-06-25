@@ -1,6 +1,6 @@
 import requests
 import json
-messages="Terima kasih sudah mengikut program kami. Silahkan hubungi admin WA kami untuk dimasukkan ke dalam grup !"
+messages="Tes dari git!"
 url = 'https://webexapis.com/v1/messages'
 file=open("email.txt","r")
 data=[]
