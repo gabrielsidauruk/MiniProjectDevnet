@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import requests
 import json
-messages="Tes dari git! yang baru"
+messages="Tes dari git ketika record!"
 url = 'https://webexapis.com/v1/messages'
 file=open("email.txt","r")
 data=[]
