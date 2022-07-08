@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import requests
 import json
-messages="Tes Jumat pagi!"
+messages="Tes 123123!"
 url = 'https://webexapis.com/v1/messages'
 file=open("email.txt","r")
 data=[]
